@@ -1,0 +1,44 @@
+.text-danger {
+    color: red;
+}
+
+.text-info {
+    color: blue;
+}
+
+.ht_clone_top thead th {
+    color: blue;
+    font-weight: 600;
+    background-color: #ddd;
+}
+
+.ht_clone_bottom tbody td {
+    color: blue !important;
+    font-weight: 600;
+    background-color: rgb(243, 208, 156);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn {
+    padding: 5px 15px;
+    cursor: pointer;
+    vertical-align: top;
+    border: none;
+}
+
+.btn-primary {
+    background-color: rgb(52, 52, 255);
+    color: white;
+}
+
+.btn:not(.btn-muted) {
+    background-color: rgb(67, 67, 245);
+}
+
+.btn-muted {
+    cursor: not-allowed;
+    background-color: rgb(141, 172, 199);
+}

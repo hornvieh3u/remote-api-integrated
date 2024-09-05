@@ -1,0 +1,14 @@
+html, body {
+  position: relative !important;
+  width: 100% !important;
+  height: 100% !important;
+  overflow-x: hidden !important;
+}
+
+body {
+  color: #1a4677 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-y: auto !important;
+}
